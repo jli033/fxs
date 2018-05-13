@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleToPostgreSql", "OracleToPostgreSql\OracleToPostgreSql.csproj", "{055F4EE2-3CC0-46DD-98E4-1D9950E4DEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleToPostgre", "OracleToPostgre\OracleToPostgre.csproj", "{4927CB17-A5A9-4170-9099-E67750CB670B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055F4EE2-3CC0-46DD-98E4-1D9950E4DEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055F4EE2-3CC0-46DD-98E4-1D9950E4DEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055F4EE2-3CC0-46DD-98E4-1D9950E4DEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055F4EE2-3CC0-46DD-98E4-1D9950E4DEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4927CB17-A5A9-4170-9099-E67750CB670B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4927CB17-A5A9-4170-9099-E67750CB670B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4927CB17-A5A9-4170-9099-E67750CB670B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4927CB17-A5A9-4170-9099-E67750CB670B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {391635CF-418D-48FC-A246-87F947EFEC3B}
+	EndGlobalSection
+EndGlobal
